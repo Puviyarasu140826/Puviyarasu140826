@@ -35,3 +35,9 @@ I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/
 - ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Puvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/)
+    
+---
+
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" alt="C" width="40" height="40"/>&nbsp;
