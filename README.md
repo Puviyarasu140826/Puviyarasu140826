@@ -56,7 +56,7 @@ I am an `ECE engineer` <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3q
   
   <br>
 
-## Streak Stats
+## 🔥Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Puviyarasu140826&theme=algolia" alt="Puviyarasu140826" /></p>
 
 <br>
