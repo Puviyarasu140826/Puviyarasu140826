@@ -10,8 +10,11 @@
   
   
 <div id="header" align="center">
+<img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="200"/>
 </div>
+
 
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/">
@@ -26,23 +29,25 @@
 <div id="badges"align="center">
 <img src="https://komarev.com/ghpvc/?username=Puviyarasu140826&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
   ---
 
 ### 👨‍🎓 About Me :
   <div align="left">
-I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India.
+I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India
 
-- 🧑‍🎓: Currently pursuing `Bachelor of Engineering(Electronics and Communication)` in Bannari Amman Institute of Technology
+- 🧑‍🎓 Currently pursuing `Bachelor of Engineering(Electronics and Communication)` in Bannari Amman Institute of Technology
 
-- 😄:  Striving to help society by `offering engineering solutions` to challenges that are currently being faced.
+- 😄 Striving to help society by `offering engineering solutions` to challenges that are currently being faced
     
-- 👨‍💻: I love using Software as a solution for every `Problem`
+- 👨‍💻 I love using Software as a solution for every `Problem`
 
-- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ Currently working in Range Extended Electric Vehicle event and Mathworks Minidrone Competition India 2022
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Puvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/)
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Puvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/)
     
 ---
 
@@ -74,8 +79,6 @@ I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Puviyarasu140826&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Puviyarasu140826" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
     ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
