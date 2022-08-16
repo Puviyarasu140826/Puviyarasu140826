@@ -28,28 +28,23 @@
   </a>
 <div id="badges"align="center">
 <img src="https://komarev.com/ghpvc/?username=Puviyarasu140826&style=flat-square&color=blue" alt=""/>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
+	
+<p align="left">
+  <samp>
+    <br><br>
+    - Electronics and Communication engineer
+    <br><br>
+    - Striving to help society by `offering engineering solutions` to challenges that are currently being faced
+    <br><br>
+    - I love using Software as a solution for every `Problem
+    <br><br> 
+    - In my free time, I solve problems on GeeksforGeeks and read tech articles
+    <br><br>  
+  </samp>
+</p>	
+
   ---
-
-### 👨‍🎓 About Me :
-  <div align="left">
-I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" width="30"> from India
-
-- 🧑‍🎓 Currently pursuing `Bachelor of Engineering(Electronics and Communication)` in Bannari Amman Institute of Technology
-
-- 😄 Striving to help society by `offering engineering solutions` to challenges that are currently being faced
-    
-- 👨‍💻 I love using Software as a solution for every `Problem`
-
-- ⚡ Currently working in Range Extended Electric Vehicle event and Mathworks Minidrone Competition India 2022
-
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Puvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/puviyarasu-sakthivel-68694a226/)
-   
----
 
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -67,7 +62,7 @@ I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/
 <br>
 <br>
     
-    ## 📊 Github Stats
+    📊 Github Stats
 
 
 
