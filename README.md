@@ -93,3 +93,5 @@ I am an ECE engineer <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/
 
 -----
 Credits: [Puviyarasu140826](https://github.com/Puviyarasu140826)
+
+![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
