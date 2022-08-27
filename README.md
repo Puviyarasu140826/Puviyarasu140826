@@ -52,15 +52,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  
-  
+   
   <br>
-
-## 🔥Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Puviyarasu140826&theme=algolia" alt="Puviyarasu140826" /></p>
-
-<br>
-<br>
     
     📊 Github Stats
 
@@ -75,11 +68,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Puviyarasu140826&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Puviyarasu140826" height="192px"/>
   <br/>
     ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Puviyarasu140826"><img alt="Puviyarasu140826's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Puviyarasu140826&custom_title=Puviyarasu140826's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 ## :trophy: Git profile Trophies
