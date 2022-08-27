@@ -78,7 +78,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="Puviyarasu140826's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Puviyarasu140826&custom_title=Puviyarasu140826's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Puviyarasu140826"><img alt="Puviyarasu140826's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Puviyarasu140826&custom_title=Puviyarasu140826's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
