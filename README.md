@@ -1,7 +1,7 @@
 <p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-<img src="https://github.com/Puviyarasu140826/WEBP/blob/main/gif.webp">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+  <img height="100" width="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+<img height="50" src="https://github.com/Puviyarasu140826/WEBP/blob/main/gif.webp">
+  <img height="100" width="100" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>  
   <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Circuit+Designer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
